@@ -2,6 +2,6 @@
 
 ## About Us
 
-## Our past achievements
+## Our Achievements
 
 ## Our Socials
