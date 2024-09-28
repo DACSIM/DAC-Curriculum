@@ -1,7 +1,7 @@
 # Hello!!! We are the Data Analytics Club 👋
 
-## About Us
+## 👨‍💻 About Us
 
-## Our Achievements
+## 🔥 Our Achievements
 
-## Our Socials
+## 👯 Our Socials
