@@ -1,1 +1,1 @@
-(@Abhi will need your help to fill this portion up thank you!)
+# Hello!!! We are the Data Analytics Club 👋
