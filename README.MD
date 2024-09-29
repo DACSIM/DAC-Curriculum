@@ -1,8 +1,10 @@
 # DAC Curicullumn
-This repository is for the excos to upload their curriculum materials for future sub-comms to use.
+This repository is for the excos to upload their curriculum materials for future sub-comms to use. Please feel free to fork this repository for your own use!
 
 ## Curriculum - 16 sessions:
 * Basic GitHub + Intro to Python - 2 lessons
+
+
 * Intro Python Tutorial - 1 lesson
 * Data Storytelling + Intro to EDA - 1 lesson
 * EDA tutorial - 1 lesson
@@ -19,3 +21,7 @@ This repository is for the excos to upload their curriculum materials for future
 
 Happening at the same time: 
 * Internal Projects + 4 Workshops (Intro to Python x2 + EDA + Machine Learning) - 4 sessions total
+
+## Setting up VSCode
+
+## Forking the curicullumn
