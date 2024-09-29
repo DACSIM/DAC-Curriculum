@@ -96,12 +96,19 @@ This repository is for the excos to upload their curriculum materials for future
 ### Internal Projects Session
 ```json
 {
-  "Topic":"Subcomms will be divided into teams and tasked to create a project which solves a certain problem or fulfills a certain requirment within the deadline. The entire group will theb be asked to present their submission to the rest of the club.",
+  "Topic":"Subcomms will be divided into teams and tasked to create a project which solves a certain problem or fulfills a certain requirment within the deadline. The entire group will then be asked to present their submission to the rest of the club.",
   "Dates":"27/11/24 to 18/12/24"
 }
 ```
 ---
 
 ## Setting up VSCode
+1. Install Visual Studio Code from https://code.visualstudio.com/
+2. Install Anaconda from https://www.anaconda.com/download
+3. Open Visual Stuido Code, go to the extensions tab, and download the "Python" extension
+4. After you're done downloading "Python", download the "Jupyter" extension
+5. Congratulations! You are now ready to code in Python as well as able to use Jupyter notebooks.
+6. If you need to download data files for your curicullumn lecture, you can find it here: https://drive.google.com/drive/folders/1PIjOqFCnovo8kGbGQDfjFE17BAl_PtqF?usp=drive_link
 
 ## Forking the curicullumn
+1. 
