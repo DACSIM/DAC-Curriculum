@@ -116,4 +116,12 @@ This repository is for the excos to upload their curriculum materials for future
 6. If you need to download data files for your curicullumn lecture, you can find it here: https://drive.google.com/drive/folders/1PIjOqFCnovo8kGbGQDfjFE17BAl_PtqF?usp=drive_link
 
 ## Forking the curicullumn
-1. 
+1. Go the main branch page of the DAC-Curicullumn repository.
+
+2. Click on the "Fork" button at the top-right corner of the page.
+
+3. Type in a name and description of your choosing for your "fork".
+
+4. Click "create Fork".
+
+5. Congratulations! Now you have your own personal copy of the DAC curicullumn materials which you can use to your own liking!
