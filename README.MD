@@ -4,7 +4,7 @@ This repository is for the excos to upload their curriculum materials for future
 ## The Timeline
 
 ### Basic GitHub + Intro to Python 
-```
+```json
 {
   "Topic":"Guide to using GitHub as a first time beginner, leading to an introduction to Python syntax",
   "Date":"1/10/2024",
