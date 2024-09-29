@@ -1,7 +1,7 @@
-# DAC Curicullumn
+# The DAC Curicullumn
 This repository is for the excos to upload their curriculum materials for future sub-comms to use. Please feel free to fork this repository for your own use!
 
-## Curriculum - 16 sessions:
+## The Timeline
 * Basic GitHub + Intro to Python - 2 lessons
 
 
