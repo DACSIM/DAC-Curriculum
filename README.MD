@@ -2,8 +2,16 @@
 This repository is for the excos to upload their curriculum materials for future sub-comms to use. Please feel free to fork this repository for your own use!
 
 ## The Timeline
-* Basic GitHub + Intro to Python - 2 lessons
 
+### Basic GitHub + Intro to Python 
+```
+{
+  "Topic":"Guide to using GitHub as a first time beginner, leading to an introduction to Python syntax",
+  "Date":"1/10/2024",
+  "Lecturers":"Cheryl and Kaavya"
+}
+```
+---
 
 * Intro Python Tutorial - 1 lesson
 * Data Storytelling + Intro to EDA - 1 lesson
