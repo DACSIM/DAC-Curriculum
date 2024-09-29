@@ -104,10 +104,15 @@ This repository is for the excos to upload their curriculum materials for future
 
 ## Setting up VSCode
 1. Install Visual Studio Code from https://code.visualstudio.com/
+
 2. Install Anaconda from https://www.anaconda.com/download
-3. Open Visual Stuido Code, go to the extensions tab, and download the "Python" extension
-4. After you're done downloading "Python", download the "Jupyter" extension
+
+3. Open Visual Stuido Code, go to the extensions tab, and download the "Python" extension.
+
+4. After you're done downloading "Python", download the "Jupyter" extension.
+
 5. Congratulations! You are now ready to code in Python as well as able to use Jupyter notebooks.
+
 6. If you need to download data files for your curicullumn lecture, you can find it here: https://drive.google.com/drive/folders/1PIjOqFCnovo8kGbGQDfjFE17BAl_PtqF?usp=drive_link
 
 ## Forking the curicullumn
