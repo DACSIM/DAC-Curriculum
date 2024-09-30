@@ -157,6 +157,5 @@ This will create a personal copy of the repository under your GitHub account.
 
 
 7. <b>Push Changes to Their Forked Repository:</b>
-<b>Push to GitHub:</b>
-  * After committing changes, you can push the changes to your forked repository on GitHub by clicking the "Sync Changes" button in the Source Control tab.
+  * <b>Push to GitHub:</b> After committing changes, you can push the changes to your forked repository on GitHub by clicking the "Sync Changes" button in the Source Control tab.
   * This allows you to save your progress online without affecting the original repository.
