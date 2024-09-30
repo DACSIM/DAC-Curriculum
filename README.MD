@@ -137,6 +137,7 @@ This will create a personal copy of the repository under your GitHub account.
 
 4. Open Files and Edit:
   * They can open any .py or .ipynb files and start working on the exercises, making changes in your local copy.
+
 5. Run the Code:
   * To run Python scripts, you can right-click the file and choose “Run Python File in Terminal” or use the run button at the top right corner.
   * For Jupyter notebooks (.ipynb files), you can run the cells directly in VSCode if the Jupyter extension is installed.
