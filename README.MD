@@ -126,7 +126,7 @@ This repository is for the excos to upload their curriculum materials for future
 
 This will create a personal copy of the repository under your GitHub account.
 
-<br>
+<br />
 2. Clone the Forked Repository to VSCode:
   * <b>Open VSCode</b>:
   * <b>Open the Command Palette</b>:
@@ -137,25 +137,25 @@ This will create a personal copy of the repository under your GitHub account.
   * <b>Open the Repository</b>:
     - Once the repository is cloned, VSCode will prompt to open the repository. Click "Open" to open the project in VSCode.
 
-<br>
+<br />
 3. Explore and Work on the Materials:
   * you can now browse through the folders and files in the repository from the VSCode sidebar.
 
-<br>
+<br />
 4. Open Files and Edit:
   * They can open any .py or .ipynb files and start working on the exercises, making changes in your local copy.
 
-<br>
+<br />
 5. Run the Code:
   * To run Python scripts, you can right-click the file and choose “Run Python File in Terminal” or use the run button at the top right corner.
   * For Jupyter notebooks (.ipynb files), you can run the cells directly in VSCode if the Jupyter extension is installed.
 
-<br>
+<br />
 6.  Commit Changes Locally:
   * <b>Make Changes:</b> you can make changes to the files as you work through the exercises.
   * <b>Stage and Commit Changes:</b> In the Source Control tab, you can stage your changes (click on the +icon next to each file) and commit with a message (e.g., “Completed exercise 1”).
 
-<br>
+<br />
 7. Push Changes to Their Forked Repository:
 Push to GitHub:
   * After committing changes, you can push the changes to your forked repository on GitHub by clicking the "Sync Changes" button in the Source Control tab.
