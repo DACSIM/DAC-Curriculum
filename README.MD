@@ -108,7 +108,7 @@ This repository is for the excos to upload their curriculum materials for future
 2. Install Anaconda from https://www.anaconda.com/download
 
 3. Open Visual Stuido Code, go to the extensions tab on the activity bar, and download the the following extensions:
-  * Firslty make sure all of these extensions are by Microsoft:
+  * Make sure all of these extensions are by Microsoft:
     - Python
     - Jupyter
     - SQL Server (mssql)
