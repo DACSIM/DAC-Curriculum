@@ -103,7 +103,7 @@ This repository is for the excos to upload their curriculum materials for future
 ---
 
 ## Setting up VSCode
-VSCode stands for Visual Studio Code, which is an Integrated Development Environment (IDE), which basically means its a software which can read, write and run code in several different programming languages.
+VSCode stands for Visual Studio Code, which is an Integrated Development Environment (IDE), which basically means its a software which can read, write and run code files in several different programming languages.
 
 If you need to download data files for your curicullumn lecture, you can find them here: https://drive.google.com/drive/folders/1PIjOqFCnovo8kGbGQDfjFE17BAl_PtqF?usp=drive_link
 
