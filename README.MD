@@ -117,7 +117,7 @@ This repository is for the excos to upload their curriculum materials for future
 
 5. Congratulations! You are now ready to code!
 
-6. If you need to download data files for your curicullumn lecture, you can find it here: https://drive.google.com/drive/folders/1PIjOqFCnovo8kGbGQDfjFE17BAl_PtqF?usp=drive_link
+6. If you need to download data files for your curicullumn lecture, you can find them here: https://drive.google.com/drive/folders/1PIjOqFCnovo8kGbGQDfjFE17BAl_PtqF?usp=drive_link
 
 ## Forking the curicullumn
 1. <b>Fork the Repository on GitHub:</b>
