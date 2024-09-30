@@ -120,43 +120,43 @@ This repository is for the excos to upload their curriculum materials for future
 6. If you need to download data files for your curicullumn lecture, you can find it here: https://drive.google.com/drive/folders/1PIjOqFCnovo8kGbGQDfjFE17BAl_PtqF?usp=drive_link
 
 ## Forking the curicullumn
-1. Fork the Repository on GitHub:
+1. <b>Fork the Repository on GitHub:</b>
   * Click on the GitHub link shared, which will open the repository in web browser.
   * Click the "Fork" button at the top right corner of the repository page. 
 
 This will create a personal copy of the repository under your GitHub account.
 
 
-2. Clone the Forked Repository to VSCode:
+2. <b>Clone the Forked Repository to VSCode:</b>
   * <b>Open VSCode</b>:
   * <b>Open the Command Palette</b>:
     - Press "Ctrl + Shift + P" (or "Cmd + Shift + P" on Mac) to open the Command Palette.
-  * Clone the Repository:
+  * <b>Clone the Repository:</b>
     - Type "Git: Clone" and select it.
     - Paste the URL of your forked repository from your GitHub account and choose a local folder where you want to save the repository.
   * <b>Open the Repository</b>:
     - Once the repository is cloned, VSCode will prompt to open the repository. Click "Open" to open the project in VSCode.
 
 
-3. Explore and Work on the Materials:
+3.<b>Explore and Work on the Materials:</b>
   * you can now browse through the folders and files in the repository from the VSCode sidebar.
 
 
-4. Open Files and Edit:
+4. <b>Open Files and Edit:</b>
   * They can open any .py or .ipynb files and start working on the exercises, making changes in your local copy.
 
 
-5. Run the Code:
+5. <b>Run the Code:</b>
   * To run Python scripts, you can right-click the file and choose “Run Python File in Terminal” or use the run button at the top right corner.
   * For Jupyter notebooks (.ipynb files), you can run the cells directly in VSCode if the Jupyter extension is installed.
 
 
-6.  Commit Changes Locally:
+6. <b>Commit Changes Locally:</b>
   * <b>Make Changes:</b> you can make changes to the files as you work through the exercises.
   * <b>Stage and Commit Changes:</b> In the Source Control tab, you can stage your changes (click on the +icon next to each file) and commit with a message (e.g., “Completed exercise 1”).
 
 
-7. Push Changes to Their Forked Repository:
-Push to GitHub:
+7. <b>Push Changes to Their Forked Repository:</b>
+<b>Push to GitHub:</b>
   * After committing changes, you can push the changes to your forked repository on GitHub by clicking the "Sync Changes" button in the Source Control tab.
   * This allows you to save your progress online without affecting the original repository.
