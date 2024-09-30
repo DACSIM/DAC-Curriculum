@@ -103,6 +103,8 @@ This repository is for the excos to upload their curriculum materials for future
 ---
 
 ## Setting up VSCode
+VSCode stands for Visual Studio Code, which is an Integrated Development Environment (IDE), which basically means its a software which can read, write and run code in several different programming languages.
+
 If you need to download data files for your curicullumn lecture, you can find them here: https://drive.google.com/drive/folders/1PIjOqFCnovo8kGbGQDfjFE17BAl_PtqF?usp=drive_link
 
 1. Install Visual Studio Code from https://code.visualstudio.com/
@@ -120,6 +122,8 @@ If you need to download data files for your curicullumn lecture, you can find th
 5. Congratulations! You are now ready to code!
 
 ## Forking the curicullumn
+In GitHub, "forking a repository" means to create a copy of all the files within a certain repository for your own GitHub account. For example, you can "fork" this repository to create a personal copy of the DAC curicullumn materials inside your GitHub account.
+
 If you need a more visual guide to understand how to fork a repository, you can find it here: https://scribehow.com/shared/Forking_the_DACDSA_Curriculum_Repository__uJ4bd99_TTWagei2bQgC1Q
 
 1. <b>Fork the Repository on GitHub:</b>
