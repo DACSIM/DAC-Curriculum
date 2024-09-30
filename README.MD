@@ -103,6 +103,8 @@ This repository is for the excos to upload their curriculum materials for future
 ---
 
 ## Setting up VSCode
+If you need to download data files for your curicullumn lecture, you can find them here: https://drive.google.com/drive/folders/1PIjOqFCnovo8kGbGQDfjFE17BAl_PtqF?usp=drive_link
+
 1. Install Visual Studio Code from https://code.visualstudio.com/
 
 2. Install Anaconda from https://www.anaconda.com/download
@@ -117,9 +119,9 @@ This repository is for the excos to upload their curriculum materials for future
 
 5. Congratulations! You are now ready to code!
 
-6. If you need to download data files for your curicullumn lecture, you can find them here: https://drive.google.com/drive/folders/1PIjOqFCnovo8kGbGQDfjFE17BAl_PtqF?usp=drive_link
-
 ## Forking the curicullumn
+If you need a more visual guide to understand how to fork a repository, you can find it here: https://scribehow.com/shared/Forking_the_DACDSA_Curriculum_Repository__uJ4bd99_TTWagei2bQgC1Q
+
 1. <b>Fork the Repository on GitHub:</b>
   * Click on the GitHub link shared, which will open the repository in web browser.
   * Click the "Fork" button at the top right corner of the repository page. 
@@ -159,5 +161,3 @@ This will create a personal copy of the repository under your GitHub account.
 7. <b>Push Changes to Their Forked Repository:</b>
   * <b>Push to GitHub:</b> After committing changes, you can push the changes to your forked repository on GitHub by clicking the "Sync Changes" button in the Source Control tab.
   * This allows you to save your progress online without affecting the original repository.
-
-8. If you need a more visual guide to understand how to fork a repository, you can find it here: https://scribehow.com/shared/Forking_the_DACDSA_Curriculum_Repository__uJ4bd99_TTWagei2bQgC1Q
