@@ -1,4 +1,4 @@
-# The DAC Curicullumn
+# The DAC Curriculum
 This repository is for the excos to upload their curriculum materials for future sub-comms to use. Please feel free to fork this repository for your own use!
 
 ## The Timeline
@@ -105,7 +105,7 @@ This repository is for the excos to upload their curriculum materials for future
 ## Setting up VSCode
 VSCode stands for Visual Studio Code, which is an Integrated Development Environment (IDE), which basically means its a software which can read, write and run code files in several different programming languages.
 
-If you need to download data files for your curicullumn lecture, you can find them here: https://drive.google.com/drive/folders/1PIjOqFCnovo8kGbGQDfjFE17BAl_PtqF?usp=drive_link
+If you need to download data files for your curriculum lecture, you can find them here: https://drive.google.com/drive/folders/1PIjOqFCnovo8kGbGQDfjFE17BAl_PtqF?usp=drive_link
 
 1. Install Visual Studio Code from https://code.visualstudio.com/
 
@@ -115,14 +115,14 @@ If you need to download data files for your curicullumn lecture, you can find th
   * Make sure all of these extensions are by Microsoft:
     - Python
     - Jupyter
-    - SQL Server (mssql)
+    - SQL Server (postgresql)
     - SQL Database Projects
     - GitHub Pull Requests
 
 5. Congratulations! You are now ready to code!
 
-## Forking the curicullumn
-In GitHub, "forking a repository" means to create a copy of all the files within a certain repository for your own GitHub account. For example, you can "fork" this repository to create a personal copy of the DAC curicullumn materials inside your GitHub account.
+## Forking the curriculum
+In GitHub, "forking a repository" means to create a copy of all the files within a certain repository for your own GitHub account. For example, you can "fork" this repository to create a personal copy of the DAC curriculum materials inside your GitHub account.
 
 If you need a more visual guide to understand how to fork a repository, you can find it here: https://scribehow.com/shared/Forking_the_DACDSA_Curriculum_Repository__uJ4bd99_TTWagei2bQgC1Q
 
