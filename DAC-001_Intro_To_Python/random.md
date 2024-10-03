@@ -1,3 +1,3 @@
-#Today we learn git and messed up
+# Today we learn git and messed up
 
-#we are learning about git branch and both
+# we are learning about git branch and both
