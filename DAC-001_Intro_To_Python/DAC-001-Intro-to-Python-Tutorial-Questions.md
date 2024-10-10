@@ -8,6 +8,7 @@ Intro to Python Tutorial Questions
 Question 1: Lists
 Task:
 (a) Create a list named fruits with the items "apple", "orange", and "banana".
+
 (b) Add "tomato" to the end of the fruits list.
 (c) Remove "apple" from the fruits list.
 
