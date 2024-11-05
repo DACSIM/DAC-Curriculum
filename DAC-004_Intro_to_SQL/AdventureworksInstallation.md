@@ -50,7 +50,7 @@ git clone https://github.com/lorint/AdventureWorks-for-Postgres.git
 
 It should look something like this! A mixture of both files in the folder.
 
-<img align='centre' src="/Users/junyeow/Desktop/DAC-Curriculum/additional/Screenshot 2024-10-09 at 1.11.22 AM.png" width="500">
+<img align='centre' src="https://i.imgur.com/ibD5PiT.png" width="500">
 
 ### 3) Go to the directory where the repository is stored! In shell/terminal
 
@@ -74,7 +74,7 @@ Launch the **SQL Shell (psql)** application:
 
 - Press `Enter` to accept the default values for **Server**, **Database**, and **Port**, unless you want to use your own specific custom settings. Should look something like this!
 
-<img align='centre' src="/Users/junyeow/Desktop/DAC-Curriculum/additional/photo_2024-10-09_23-34-31.jpg" width="1000">
+<img align='centre' src="https://i.imgur.com/RFTLXKw.jpeg" width="1000">
 
 - When prompted, enter your PostgreSQL **username** (default is `postgres`).
 - Enter your **password** if prompted.
@@ -83,8 +83,14 @@ Launch the **SQL Shell (psql)** application:
 
 Within the SQL Shell, check your current working directory to ensure you are in the correct location:
 
+For MacOS:
 ```sql
 \! pwd
+```
+
+For Windows 11:
+```sql
+\! cd
 ```
 
 - This command executes the shell command `pwd`, displaying the current directory path.
@@ -113,8 +119,14 @@ Navigate to the directory containing the AdventureWorks files:
 
 Verify that you've changed to the correct directory:
 
+For MacOS:
 ```sql
 \! pwd
+```
+
+For Windows 11:
+```sql
+\! cd
 ```
 
 - **Example Output**:
@@ -125,8 +137,14 @@ Verify that you've changed to the correct directory:
 
 List the files in the current directory to ensure all necessary files are present:
 
+For MacOS:
 ```sql
 \! ls
+```
+
+For Windows 11:
+```sql
+\! dir
 ```
 
 - You should see the following files:
@@ -235,7 +253,7 @@ SELECT * FROM person.person LIMIT 5;
 
 ---
 
-## Troubleshooting
+## Troubleshooting (MacOS)
 
 - **psql Command Errors**: Ensure that you are correctly using SQL commands within the SQL Shell. Commands starting with `\` are `psql` meta-commands.
 
@@ -261,6 +279,32 @@ SELECT * FROM person.person LIMIT 5;
 
 ---
 
+## Troubleshooting (Windows 11)
+
+- **psql Command Errors**: Ensure that you are correctly using SQL commands within the SQL Shell. Commands starting with `\` are `psql` meta-commands.
+
+- **Incorrect Directory**: If you receive errors about missing files when running `\i install.sql`, verify your current directory:
+
+  ```sql
+  \! cd
+  ```
+
+  Ensure you are in the directory containing `install.sql` and the CSV files. If not, change to the correct directory using:
+
+  ```sql
+  \cd /correct/path/to/AdventureWorks-for-Postgres
+  ```
+
+- **File Not Found Errors**: Ensure that all necessary files (`install.sql`, CSV files) are present in the current directory. List files using:
+
+  ```sql
+  \! dir
+  ```
+
+- **Authentication Errors**: If you encounter authentication errors when creating the database or connecting, verify your PostgreSQL user's credentials.
+
+---
+
 ## Additional Resources
 
 - **AdventureWorks-for-Postgres Repository**: [https://github.com/lorint/AdventureWorks-for-Postgres](https://github.com/lorint/AdventureWorks-for-Postgres)
@@ -270,7 +314,7 @@ SELECT * FROM person.person LIMIT 5;
 
 ---
 
-### **Quick Command Reference**
+### **Quick Command Reference (MacOS)** 
 
 Here is a summary of the key commands used within the SQL Shell:
 
@@ -321,7 +365,58 @@ Here is a summary of the key commands used within the SQL Shell:
   ```sql
   \q
   ```
+---
+### **Quick Command Reference (Windows 11)** 
 
+Here is a summary of the key commands used within the SQL Shell:
+
+- **Check Current Directory**:
+
+  ```sql
+  \! cd
+  ```
+
+- **Change Directory**:
+
+  ```sql
+  cd path\to\directory
+  ```
+
+- **Create Database**:
+
+  ```sql
+  CREATE DATABASE database_name;
+  ```
+
+- **Connect to a Database**:
+
+  ```sql
+  \c database_name
+  ```
+
+- **Execute a SQL Script**:
+
+  ```sql
+  \i script.sql
+  ```
+
+- **List Schemas**:
+
+  ```sql
+  \dn
+  ```
+
+- **List Tables in Schemas**:
+
+  ```sql
+  \dt schema_name.*
+  ```
+
+- **Exit SQL Shell**:
+
+  ```sql
+  \q
+  ```
 ---
 
 **Note**: Commands beginning with `\` are `psql` meta-commands executed within the SQL Shell. Commands beginning with `\!` allow you to execute shell commands from within `psql`.
