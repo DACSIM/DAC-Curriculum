@@ -4,3 +4,5 @@
 DAC-009_Hands_On_SQL_Tutorial
 DAC-016_Internal_Projects
 additional/
+DAC-006_Machine_Learning/datasets/*.csv
+.venv/
