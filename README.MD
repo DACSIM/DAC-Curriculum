@@ -26,7 +26,7 @@ This repository is for the excos to upload their curriculum materials for future
 {
   "Topic":"Understanding how data creates narratives and learning to analyse data to gain insights with Python",
   "Dates":"10/10/24",
-  "Lecturers":"Jun Yeow and Geniveve"
+  "Lecturers":"Geniveve"
 }
 ```
 ---
@@ -35,7 +35,7 @@ This repository is for the excos to upload their curriculum materials for future
 {
   "Topic":"A guide to using the data visualsation software Tableu for beginners",
   "Dates":"15/10/24",
-  "Lecturers":"Jun Yeow and Geneiveve"
+  "Lecturers":"Geneiveve"
 }
 ```
 ---
@@ -44,7 +44,7 @@ This repository is for the excos to upload their curriculum materials for future
 {
   "Topic":"Combining Exploraty Data Analysis techniques with Tableu software to create advanced data visualisations",
   "Dates":"17/10/24",
-  "Lecturers":"Jun Yeow and Geneiveve"
+  "Lecturers":"Geneiveve"
 }
 ```
 ---
@@ -53,7 +53,7 @@ This repository is for the excos to upload their curriculum materials for future
 {
   "Topic":"A beginner to advanced SQL course across three lecturess",
   "Dates":"22/10/24", "24/10/24", "29/10/24"
-  "Lecturers":"Jun Yeow and Geneiveve"
+  "Lecturers":"Jun Yeow"
 }
 ```
 ---
@@ -62,7 +62,7 @@ This repository is for the excos to upload their curriculum materials for future
 {
   "Topic":"TBD",
   "Dates":"5/11/24", "7/11/24"
-  "Lecturers":"Jun Yeow, Luqman, Jaryl, Abhishek, Sibikrishknan, Geneiveve, Kaavya, and Cheryl"
+  "Lecturers":"Jun Yeow, Luqman, Jaryl, Abhishek, Geneiveve, Kaavya, and Cheryl"
 }
 ```
 ---
@@ -71,7 +71,7 @@ This repository is for the excos to upload their curriculum materials for future
 {
   "Topic":"A beginner to advanced course on utilizing Machine Learning techniques across four lectures",
   "Dates":"12/11/24", "14/11/24", "19/11/24","21/11/24", "26/11/24"
-  "Lecturers":"Luqman and Sibikrishknan"
+  "Lecturers":"Luqman"
 }
 ```
 ---
@@ -80,7 +80,7 @@ This repository is for the excos to upload their curriculum materials for future
 {
   "Topic":"A crash course on web scraping techniques using Python",
   "Dates":"3/12/24",
-  "Lecturers":"Abhishek and Jaryl"
+  "Lecturers":"Jaryl"
 }
 ```
 ---
@@ -89,7 +89,7 @@ This repository is for the excos to upload their curriculum materials for future
 {
   "Topic":"A beginner to advanced course on understanding and using Natural Language Processing techniques",
   "Dates":"5/12/24", "10/12/24", 
-  "Lecturers":"Abhishek and Jaryl"
+  "Lecturers":"Jaryl and Abhishek"
 }
 ```
 ---
