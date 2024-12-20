@@ -26,7 +26,7 @@ This repository is for the excos to upload their curriculum materials for future
 {
   "Topic":"Understanding how data creates narratives and learning to analyse data to gain insights with Python",
   "Dates":"10/10/24",
-  "Lecturers":"Geniveve"
+  "Lecturers":"Genevieve"
 }
 ```
 ---
@@ -35,7 +35,7 @@ This repository is for the excos to upload their curriculum materials for future
 {
   "Topic":"A guide to using the data visualsation software Tableu for beginners",
   "Dates":"15/10/24",
-  "Lecturers":"Geneiveve"
+  "Lecturers":"Genevieve"
 }
 ```
 ---
@@ -44,7 +44,7 @@ This repository is for the excos to upload their curriculum materials for future
 {
   "Topic":"Combining Exploraty Data Analysis techniques with Tableu software to create advanced data visualisations",
   "Dates":"17/10/24",
-  "Lecturers":"Geneiveve"
+  "Lecturers":"Genevieve"
 }
 ```
 ---
@@ -60,9 +60,9 @@ This repository is for the excos to upload their curriculum materials for future
 ### Amazon Web Services Workshop
 ```json
 {
-  "Topic":"TBD",
+  "Topic":"Serverless Data Lake",
   "Dates":"5/11/24", "7/11/24"
-  "Lecturers":"Jun Yeow, Luqman, Jaryl, Abhishek, Geneiveve, Kaavya, and Cheryl"
+  "Lecturers":"Jun Yeow, Luqman, Jaryl, Abhishek, Genevieve, Kaavya, and Cheryl"
 }
 ```
 ---
